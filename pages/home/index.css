@@ -1,1 +1,70 @@
 /* Desenvolva sua estilização aqui... */
+.main-class{
+    background-color: var(--color-grey-3);
+    
+    
+}
+.div-header{
+    position: relative;
+    display:inline-block;
+    color: white;
+    
+}
+
+.position-header{
+    position: absolute;
+    top: 80px;
+    padding-left: 100px;
+    
+    
+}
+
+.position-header>h2{
+
+}
+
+.position-header>h1{
+    /* color: var(--color-grey-3); */
+    color: white;
+    padding-top: 60px;
+    
+    
+
+}
+
+.position-header>p{
+    color: var(--color-grey-5);
+    padding-top: 32px;
+    padding-bottom: 60px;
+    width: 893px;
+    height: 122px;
+
+}
+
+.position-header> button{
+    color: white;
+    background-color: #6741D9;
+    border: none;
+    border-radius: 8px;
+    height: 48px;
+    width: 296px;
+    
+}
+
+img{
+    /* height: 794px;
+    width: 1600px; */
+    /* opacity: 70%; */
+    
+    
+    
+    
+    
+    
+
+
+}
+
+.div-p > p{
+    padding-left: 100px;
+}

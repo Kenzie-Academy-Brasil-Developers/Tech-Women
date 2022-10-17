@@ -1,0 +1,54 @@
+
+.div-card{
+    display: flex;
+    flex-direction: column;
+  
+    background-color: white;
+    gap: 10px;
+    width:817px;
+    height: 307px;
+    margin: 32px;
+    border-radius: 8px;
+    padding-left: 38px;
+    padding-top: 38px;
+    padding-right: 38px;
+    
+
+}
+
+.li-card{
+    padding-left: 101px;
+    
+    
+
+}
+.titulo-h2{
+    
+
+}
+.div-informacoes{
+    display: flex;
+    justify-content: flex-start;
+    gap: 10px;
+
+
+
+}
+.p-empresas{
+
+}
+.p-cidade{
+
+}
+.p-descricao{
+
+}
+.div-botoes{
+
+}
+.p-modalidade{
+
+}
+.botao-candidatura{
+
+}
